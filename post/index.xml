@@ -6,9 +6,32 @@
     <description>Recent content in Posts on Even - A super concise theme for Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Tue, 15 Jan 2019 07:28:04 +1100</lastBuildDate>
     
 	<atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>First Set of Images</title>
+      <link>http://localhost:1313/post/first-set-of-images/</link>
+      <pubDate>Tue, 15 Jan 2019 07:28:04 +1100</pubDate>
+      
+      <guid>http://localhost:1313/post/first-set-of-images/</guid>
+      <description>Saturday, January 12th
+The theme was set to &amp;ldquo;even&amp;rdquo;
+Posts, previously not visible, now made visible. The &amp;ldquo;even&amp;rdquo; theme draws posts from the \content\post folder instead of the \content\posts folder. It was necessary to move the posts to the \content\post folder.
+Electron API Demos Start Screen
+Electron API Demos Main Window</description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/post/my-first-post/</link>
+      <pubDate>Sat, 12 Jan 2019 16:10:41 +1100</pubDate>
+      
+      <guid>http://localhost:1313/post/my-first-post/</guid>
+      <description>dfdsfdsfsd [post]</description>
+    </item>
     
     <item>
       <title>Welcome to Hugo!</title>

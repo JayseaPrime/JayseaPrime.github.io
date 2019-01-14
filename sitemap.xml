@@ -3,6 +3,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://localhost:1313/post/first-set-of-images/</loc>
+    <lastmod>2019-01-15T07:28:04+11:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/my-first-post/</loc>
+    <lastmod>2019-01-12T16:10:41+11:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/categories/</loc>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
@@ -10,12 +24,14 @@
   
   <url>
     <loc>http://localhost:1313/</loc>
+    <lastmod>2019-01-15T07:28:04+11:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>http://localhost:1313/post/</loc>
+    <lastmod>2019-01-15T07:28:04+11:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
