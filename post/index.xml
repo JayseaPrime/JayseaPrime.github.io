@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Even - A super concise theme for Hugo</title>
-    <link>http://localhost:1313/post/</link>
+    <link>https://jayseaprime.github.io/post/</link>
     <description>Recent content in Posts on Even - A super concise theme for Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 15 Jan 2019 07:28:04 +1100</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jayseaprime.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>First Set of Images</title>
-      <link>http://localhost:1313/post/first-set-of-images/</link>
+      <link>https://jayseaprime.github.io/post/first-set-of-images/</link>
       <pubDate>Tue, 15 Jan 2019 07:28:04 +1100</pubDate>
       
-      <guid>http://localhost:1313/post/first-set-of-images/</guid>
+      <guid>https://jayseaprime.github.io/post/first-set-of-images/</guid>
       <description>Saturday, January 12th
 The theme was set to &amp;ldquo;even&amp;rdquo;
 Posts, previously not visible, now made visible. The &amp;ldquo;even&amp;rdquo; theme draws posts from the \content\post folder instead of the \content\posts folder. It was necessary to move the posts to the \content\post folder.
@@ -26,19 +26,19 @@ Electron API Demos Main Window</description>
     
     <item>
       <title>My First Post</title>
-      <link>http://localhost:1313/post/my-first-post/</link>
+      <link>https://jayseaprime.github.io/post/my-first-post/</link>
       <pubDate>Sat, 12 Jan 2019 16:10:41 +1100</pubDate>
       
-      <guid>http://localhost:1313/post/my-first-post/</guid>
+      <guid>https://jayseaprime.github.io/post/my-first-post/</guid>
       <description>dfdsfdsfsd [post]</description>
     </item>
     
     <item>
       <title>Welcome to Hugo!</title>
-      <link>http://localhost:1313/post/example/</link>
+      <link>https://jayseaprime.github.io/post/example/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/example/</guid>
+      <guid>https://jayseaprime.github.io/post/example/</guid>
       <description>You’ll find this post in your content/posts directory.
 To add new posts, simply add a file in the content/posts directory that follows the convention name-of-post.ext and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 Hugo also offers powerful support for code snippets:
