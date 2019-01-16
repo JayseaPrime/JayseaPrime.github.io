@@ -3,6 +3,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://jayseaprime.github.io/post/screenshots/</loc>
+    <lastmod>2019-01-16T21:39:24+11:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://jayseaprime.github.io/post/first-set-of-images/</loc>
     <lastmod>2019-01-15T07:28:04+11:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -24,14 +31,14 @@
   
   <url>
     <loc>https://jayseaprime.github.io/</loc>
-    <lastmod>2019-01-15T07:28:04+11:00</lastmod>
+    <lastmod>2019-01-16T21:39:24+11:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://jayseaprime.github.io/post/</loc>
-    <lastmod>2019-01-15T07:28:04+11:00</lastmod>
+    <lastmod>2019-01-16T21:39:24+11:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
