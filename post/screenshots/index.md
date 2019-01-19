@@ -51,3 +51,53 @@
 | ----------- | ----------- |
 | ![ead_windows10_13_AppInTray](/img/ead_windows10_13_AppInTray.png) | ![ead_windows7_13_AppInTray](/img/ead_windows7_13_AppInTray.png) |
 
+
+| Fedora 29 |
+| ----------- |
+| ![ead_fedora29_01_CreateANewWindow](/img/ead_fedora29_01_CreateANewWindow.png) |
+
+| Fedora 29 |
+| ----------- |
+| ![ead_fedora29_02_FramelessWindow](/img/ead_fedora29_02_FramelessWindow.png) |
+
+| Fedora 29 |
+| ----------- |
+| ![ead_fedora29_03_RelaunchWindowAfterProcessCrashes](/img/ead_fedora29_03_RelaunchWindowAfterProcessCrashes.png) |
+
+| Fedora 29 |
+| ----------- |
+| ![ead_fedora29_04_RelaunchWindowAfterProcessHangs](/img/ead_fedora29_04_RelaunchWindowAfterProcessHangs.png) |
+
+| Fedora 29 |
+| ----------- |
+| ![ead_fedora29_05_ApplicationMenus](/img/ead_fedora29_05_ApplicationMenus.png) |
+
+| Fedora 29 |
+| ----------- |
+| ![ead_fedora29_06_ContextMenus](/img/ead_fedora29_06_ContextMenus.png) |
+
+| Fedora 29 |
+| ----------- |
+| ![ead_fedora29_07_BasicNotification](/img/ead_fedora29_07_BasicNotification.png) |
+
+| Fedora 29 |
+| ----------- |
+| ![ead_fedora29_08_NotificationWithImage](/img/ead_fedora29_08_NotificationWithImage.png) |
+
+| Fedora 29 |
+| ----------- |
+| ![ead_fedora29_09_OpenFileOrDirectory](/img/ead_fedora29_09_OpenFileOrDirectory.png) |
+
+| Fedora 29 |
+| ----------- |
+| ![ead_fedora29_10_ErrorDialog](/img/ead_fedora29_10_ErrorDialog.png) |
+
+| Fedora 29 |
+| ----------- |
+| ![ead_fedora29_11_InformationDialog](/img/ead_fedora29_11_InformationDialog.png) |
+
+| Fedora 29 |
+| ----------- |
+| ![ead_fedora29_12_SaveDialog](/img/ead_fedora29_12_SaveDialog.png) |
+
+
