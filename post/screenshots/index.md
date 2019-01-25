@@ -52,52 +52,56 @@
 | ![ead_windows10_13_AppInTray](/img/ead_windows10_13_AppInTray.png) | ![ead_windows7_13_AppInTray](/img/ead_windows7_13_AppInTray.png) |
 
 
-| Fedora 29 |
-| ----------- |
-| ![ead_fedora29_01_CreateANewWindow](/img/ead_fedora29_01_CreateANewWindow.png) |
+| Fedora 29 | Mac OS X 10.11 El Capitan |
+| ----------- | ----------- |
+| ![ead_fedora29_01_CreateANewWindow](/img/ead_fedora29_01_CreateANewWindow.png) | ![ead_macOS10_11_01_CreateANewWindow](/img/ead_macOS10_11_01_CreateANewWindow.png) |
 
-| Fedora 29 |
-| ----------- |
-| ![ead_fedora29_02_FramelessWindow](/img/ead_fedora29_02_FramelessWindow.png) |
+| Fedora 29 | Mac OS X 10.11 El Capitan |
+| ----------- | ----------- |
+| ![ead_fedora29_02_FramelessWindow](/img/ead_fedora29_02_FramelessWindow.png) | ![ead_macOS10_11_02_FramelessWindow](/img/ead_macOS10_11_02_FramelessWindow.png) |
 
-| Fedora 29 |
-| ----------- |
-| ![ead_fedora29_03_RelaunchWindowAfterProcessCrashes](/img/ead_fedora29_03_RelaunchWindowAfterProcessCrashes.png) |
+| Fedora 29 | Mac OS X 10.11 El Capitan |
+| ----------- | ----------- |
+| ![ead_fedora29_03_RelaunchWindowAfterProcessCrashes](/img/ead_fedora29_03_RelaunchWindowAfterProcessCrashes.png) | ![ead_macOS10_11_03_RelaunchWindowAfterProcessCrashes](/img/ead_macOS10_11_03_RelaunchWindowAfterProcessCrashes.png) |
 
-| Fedora 29 |
-| ----------- |
-| ![ead_fedora29_04_RelaunchWindowAfterProcessHangs](/img/ead_fedora29_04_RelaunchWindowAfterProcessHangs.png) |
+| Fedora 29 | Mac OS X 10.11 El Capitan |
+| ----------- | ----------- |
+| ![ead_fedora29_04_RelaunchWindowAfterProcessHangs](/img/ead_fedora29_04_RelaunchWindowAfterProcessHangs.png) | ![ead_macOS10_11_04_RelaunchWindowAfterProcessHangs](/img/ead_macOS10_11_04_RelaunchWindowAfterProcessHangs.png) |
 
-| Fedora 29 |
-| ----------- |
-| ![ead_fedora29_05_ApplicationMenus](/img/ead_fedora29_05_ApplicationMenus.png) |
+| Fedora 29 | Mac OS X 10.11 El Capitan |
+| ----------- | ----------- |
+| ![ead_fedora29_05_ApplicationMenus](/img/ead_fedora29_05_ApplicationMenus.png) | ![ead_macOS10_11_05_ApplicationMenus](/img/ead_macOS10_11_05_ApplicationMenus.png) |
 
-| Fedora 29 |
-| ----------- |
-| ![ead_fedora29_06_ContextMenus](/img/ead_fedora29_06_ContextMenus.png) |
+| Fedora 29 | Mac OS X 10.11 El Capitan |
+| ----------- | ----------- |
+| ![ead_fedora29_06_ContextMenus](/img/ead_fedora29_06_ContextMenus.png) | ![ead_macOS10_11_06_ContextMenus](/img/ead_macOS10_11_06_ContextMenus.png) |
 
-| Fedora 29 |
-| ----------- |
-| ![ead_fedora29_07_BasicNotification](/img/ead_fedora29_07_BasicNotification.png) |
+| Fedora 29 | Mac OS X 10.11 El Capitan |
+| ----------- | ----------- |
+| ![ead_fedora29_07_BasicNotification](/img/ead_fedora29_07_BasicNotification.png) | ![ead_macOS10_11_07_BasicNotification](/img/ead_macOS10_11_07_BasicNotification.png) |
 
-| Fedora 29 |
-| ----------- |
-| ![ead_fedora29_08_NotificationWithImage](/img/ead_fedora29_08_NotificationWithImage.png) |
+| Fedora 29 | Mac OS X 10.11 El Capitan |
+| ----------- | ----------- |
+| ![ead_fedora29_08_NotificationWithImage](/img/ead_fedora29_08_NotificationWithImage.png) | ![ead_macOS10_11_08_NotificationWithImage](/img/ead_macOS10_11_08_NotificationWithImage.png) |
 
-| Fedora 29 |
-| ----------- |
-| ![ead_fedora29_09_OpenFileOrDirectory](/img/ead_fedora29_09_OpenFileOrDirectory.png) |
+| Fedora 29 | Mac OS X 10.11 El Capitan |
+| ----------- | ----------- |
+| ![ead_fedora29_09_OpenFileOrDirectory](/img/ead_fedora29_09_OpenFileOrDirectory.png) | ![ead_macOS10_11_09_OpenFileOrDirectory](/img/ead_macOS10_11_09_OpenFileOrDirectory.png) |
 
-| Fedora 29 |
-| ----------- |
-| ![ead_fedora29_10_ErrorDialog](/img/ead_fedora29_10_ErrorDialog.png) |
+| Fedora 29 | Mac OS X 10.11 El Capitan |
+| ----------- | ----------- |
+| ![ead_fedora29_10_ErrorDialog](/img/ead_fedora29_10_ErrorDialog.png) | ![ead_macOS10_11_10_ErrorDialog](/img/ead_macOS10_11_10_ErrorDialog.png) |
 
-| Fedora 29 |
-| ----------- |
-| ![ead_fedora29_11_InformationDialog](/img/ead_fedora29_11_InformationDialog.png) |
+| Fedora 29 | Mac OS X 10.11 El Capitan |
+| ----------- | ----------- |
+| ![ead_fedora29_11_InformationDialog](/img/ead_fedora29_11_InformationDialog.png) | ![ead_macOS10_11_11_InformationDialog](/img/ead_macOS10_11_11_InformationDialog.png) |
 
-| Fedora 29 |
-| ----------- |
-| ![ead_fedora29_12_SaveDialog](/img/ead_fedora29_12_SaveDialog.png) |
+| Fedora 29 | Mac OS X 10.11 El Capitan |
+| ----------- | ----------- |
+| ![ead_fedora29_12_SaveDialog](/img/ead_fedora29_12_SaveDialog.png) | ![ead_macOS10_11_12_SaveDialog](/img/ead_macOS10_11_12_SaveDialog.png) |
+
+| Fedora 29 | Mac OS X 10.11 El Capitan |
+| ----------- | ----------- |
+| ![ead_fedora29_13_AppInTray](/img/ead_fedora29_13_AppInTray.png) | ![ead_macOS10_11_13_AppInTray](/img/ead_macOS10_11_13_AppInTray.png) |
 
 
