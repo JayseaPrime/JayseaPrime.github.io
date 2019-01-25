@@ -16,7 +16,7 @@ Notifications in Windows appear just above the tray on the bottom-right corner o
 
 In the GNOME environment in Fedora Linux, the "taskbar" or "dock" is at the top of the screen and notifications appear just below it in the centre.
 
-In Mac OS X, the tray is in the top-right, so notifications there.
+In Mac OS X, the tray is in the top-right, so notifications appear there.
 
 
 One of the concerns people may have when developing applications for multiple platforms is anticipating potential differences in functionality or appearance that may affect the user experience. The aim is to maintain a certain level of consistency across all platforms.
@@ -140,7 +140,7 @@ One of the concerns people may have when developing applications for multiple pl
 
 OPTIONS
 
-The Electron API aims to provide as much common user interface functionality as possible across different platforms, but sometimes there are features that are either unique or only available to a subset of platforms. The next few sections will describe those features.
+The Electron API aims to provide as much common user interface functionality as possible across different platforms, but sometimes there are features that are either unique or only available to a subset of all supported platforms. The next few sections will describe those features.
 
 
 
@@ -164,7 +164,7 @@ In Mac OS X, the "createDirectory" property adds a "New Folder" button to the Op
 
 OPTIONS - SAVE FILE DIALOG
 
-For the dialog.showSaveDialog() call, on Mac OS X and the "message" and "nameFieldLabel" properties allow you to add a custom message just below the title bar and replace the "Save As" in front and left of the filename with custom label of your own.
+For the dialog.showSaveDialog() call, on Mac OS X, the "message" and "nameFieldLabel" properties allow you to add a custom message just below the title bar and replace the "Save As" in front and left of the filename with custom label of your own.
 
 | Mac OS X 10.11 El Capitan (Extra) |
 | ----------- |
