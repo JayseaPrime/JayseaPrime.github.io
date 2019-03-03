@@ -150,6 +150,8 @@ OPTIONS - OPEN FILE DIALOG
 
 For the dialog.showOpenDialog() call, both the Mac OS X and Windows platforms have unique properties associated with it in the "options" argument.
 
+![ead_api_dialog_showOpenDialog](/img/ead_api_dialog_showOpenDialog.png)
+
 In Mac OS X, the "createDirectory" property adds a "New Folder" button to the Open File dialog. In Windows, the "promptToCreate" property causes Windows to open up a dialog asking the user if they want to create a new directory if the specified path does not exist.
 
 | Mac OS X 10.11 El Capitan (Extra) |
@@ -164,6 +166,8 @@ In Mac OS X, the "createDirectory" property adds a "New Folder" button to the Op
 
 OPTIONS - SAVE FILE DIALOG
 
+![ead_api_dialog_showSaveDialog](/img/ead_api_dialog_showSaveDialog.png)
+
 For the dialog.showSaveDialog() call, on Mac OS X, the "message" and "nameFieldLabel" properties allow you to add a custom message just below the title bar and replace the "Save As" in front and left of the filename with custom label of your own.
 
 | Mac OS X 10.11 El Capitan (Extra) |
@@ -173,6 +177,8 @@ For the dialog.showSaveDialog() call, on Mac OS X, the "message" and "nameFieldL
 
 
 OPTIONS - BALLOON POP-UP
+
+![ead_api_tray_displayBalloon](/img/ead_api_tray_displayBalloon.png)
 
 On Windows, the tray.displayBalloon() call summons a "balloon" shape to appear above the tray icon. You can specify an icon, title and content for the balloon.
 
